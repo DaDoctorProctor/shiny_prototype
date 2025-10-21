@@ -1,6 +1,6 @@
-Sys.setlocale("LC_ALL", "en_US.UTF-8") # or your preferred UTF-8 locale
+#Sys.setlocale("LC_ALL", "en_US.UTF-8") # or your preferred UTF-8 locale
 #Sys.setlocale("LC_ALL", "es_ES.UTF-8")
-options(encoding = "UTF-8")
+#options(encoding = "UTF-8")
 # ============================================================================
 # Dashboard de Administración Pública de Haití
 # Integración completa con diseño profesional ejecutivo
